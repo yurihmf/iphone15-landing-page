@@ -61,8 +61,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 'mudar'
-cd 'mudar
+git clone https://github.com/yurihmf/iphone15-landing-page.git
+cd iphone15-landing-page
 ```
 
 **Installation**
